@@ -1,0 +1,9 @@
+d:\data\amaan\documents\visual studio 2015\Projects\Rhinozelfant\Rhinozelfant\bin\Debug\Rhinozelfant.exe.config
+d:\data\amaan\documents\visual studio 2015\Projects\Rhinozelfant\Rhinozelfant\bin\Debug\Rhinozelfant.exe
+d:\data\amaan\documents\visual studio 2015\Projects\Rhinozelfant\Rhinozelfant\bin\Debug\Rhinozelfant.pdb
+d:\data\amaan\documents\visual studio 2015\Projects\Rhinozelfant\Rhinozelfant\obj\Debug\Rhinozelfant.csprojResolveAssemblyReference.cache
+d:\data\amaan\documents\visual studio 2015\Projects\Rhinozelfant\Rhinozelfant\obj\Debug\Rhinozelfant.Properties.Resources.resources
+d:\data\amaan\documents\visual studio 2015\Projects\Rhinozelfant\Rhinozelfant\obj\Debug\Rhinozelfant.csproj.GenerateResource.Cache
+d:\data\amaan\documents\visual studio 2015\Projects\Rhinozelfant\Rhinozelfant\obj\Debug\Rhinozelfant.exe
+d:\data\amaan\documents\visual studio 2015\Projects\Rhinozelfant\Rhinozelfant\obj\Debug\Rhinozelfant.pdb
+d:\data\amaan\documents\visual studio 2015\Projects\Rhinozelfant\Rhinozelfant\obj\Debug\Rhinozelfant.Rhinozelefant.resources
